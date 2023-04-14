@@ -1,0 +1,66 @@
+header {
+    background-color: lightgray;
+    height: 100px;
+    padding: 20px;
+}
+
+.blue-box {
+    background-color: rgb(113, 113, 254);
+    height: 85px;
+    width: 85px;
+    margin: 10px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph {
+    padding: 2rem;
+}
+
+p {
+    /* margin: 50px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    height: 60px; */
+}
+
+.darkblue {
+    height: 150px;
+    background-color: blue;
+    margin: 0;
+}
+
+.turquoise {
+    background-color: turquoise;
+    height: 150px;
+}
+
+.green {
+    background-color: lightgreen;
+    height: 150px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 150px;
+}
+
+#q-bubble {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: ;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
